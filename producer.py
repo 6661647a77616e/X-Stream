@@ -3,7 +3,7 @@ from kafka import KafkaProducer
 import json
 import time 
 
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAJW5ygEAAAAAF0rR3zoM%2Fso3c85P5MwXr4jI89c%3D378RletHfJK2Yqo2rhVtdS4LIlXrgMK9zWFLNURX9RZehmiuMT"
+BEARER_TOKEN = ""
 
 # Kafka producer
 producer = KafkaProducer(
